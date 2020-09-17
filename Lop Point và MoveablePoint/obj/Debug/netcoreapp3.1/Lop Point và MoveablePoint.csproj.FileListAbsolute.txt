@@ -1,0 +1,13 @@
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\bin\Debug\netcoreapp3.1\Lop Point và MoveablePoint.exe
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\bin\Debug\netcoreapp3.1\Lop Point và MoveablePoint.deps.json
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\bin\Debug\netcoreapp3.1\Lop Point và MoveablePoint.runtimeconfig.json
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\bin\Debug\netcoreapp3.1\Lop Point và MoveablePoint.runtimeconfig.dev.json
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\bin\Debug\netcoreapp3.1\Lop Point và MoveablePoint.dll
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\bin\Debug\netcoreapp3.1\Lop Point và MoveablePoint.pdb
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.csprojAssemblyReference.cache
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.AssemblyInfoInputs.cache
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.AssemblyInfo.cs
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.csproj.CoreCompileInputs.cache
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.dll
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.pdb
+E:\BT C#\Lop Point và MoveablePoint\Lop Point và MoveablePoint\obj\Debug\netcoreapp3.1\Lop Point và MoveablePoint.genruntimeconfig.cache
